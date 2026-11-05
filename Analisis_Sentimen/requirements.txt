@@ -1,0 +1,13 @@
+emoji==2.16.0
+gensim==4.4.0
+google_api_python_client==2.200.0
+lingua==4.16.2
+matplotlib==3.11.2
+nltk==3.9.1
+numpy==2.5.3
+pandas==3.0.5
+scikit_learn==1.9.1
+seaborn==0.13.2
+tensorflow==2.20.0
+transformers==5.16.1
+python-dotenv==1.2.4
